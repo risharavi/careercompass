@@ -2,6 +2,7 @@
   "name": "careercompass-frontend",
   "version": "1.0.0",
   "private": true,
+  "proxy": "http://localhost:8000",
   "dependencies": {
     "@tanstack/react-query": "^5.28.0",
     "axios": "^1.6.8",
